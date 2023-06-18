@@ -1,0 +1,4 @@
+colorama
+requests
+boto3
+vonage
