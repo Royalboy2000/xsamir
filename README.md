@@ -1,3 +1,8 @@
+
+## Authors
+
+- [@samir](https://www.instagram.com/s.a.m.i.r_012/)
+
 # xsamir
 # 
 
@@ -35,18 +40,43 @@ Xsamir V2 is a powerful tool with multiple features for various tasks. It provid
 - pystyle
 - Crypto
 
-## Disclaimer
 
-This script is for educational and testing purposes only. Use it responsibly and respect the privacy and security of others. The author is not responsible for any misuse or damage caused by this script.
 
-## Author
 
-Samir
+## Deployment
 
-## Version
+To deploy this project run
 
-Version 2
+```bash
+  sudo apt-get update -y && sudo apt-get upgrade -y
+```
+```bash
+  sudo apt-get install python3 
+```
+```bash
+  git clone https://github.com/Royalboy2000/xsamir/
+```
+```bash
+  cd xsamir
+```
+```bash
+  cd V3
+```
+```bash
+  pip3 install -r requirements.txt
+```
+```bash
+  sudo python3 main.py
+```
+
+
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+[License](https://choosealicense.com/licenses/mit/)
+
+
+## Support
+
+For support, message me on instagram [@samir](https://www.instagram.com/s.a.m.i.r_012/)
+
